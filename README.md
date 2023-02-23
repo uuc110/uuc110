@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**uuc110/uuc110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sourabh! 👋
 
-Here are some ideas to get you started:
+I am passionate about tech and have experience in programming languages such as
+I enjoy participating in hackathons and coding challenges to enhance my problem-solving skills. I'm excited to continue growing in this field and connecting with others who share my passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👩‍💻 Currently, I am dedicated to building my portfolio.
+
+🧠 My current focus is on learning Rails to enhance my web development skills.
+
+👯‍♀️ I am excited to collaborate with others on my upcoming web project. If you're interested, feel free to contact me on LinkedIn.
+
+💬 Don't hesitate to ask me about C++, I am always happy to help with any repo or language-related questions.
+
+📫 You can reach me through the links provided in my profile. Let's connect and explore the possibilities!
+
+## 🔧 Technologies & Tools
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,ruby)](https://skillicons.dev)
+### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### Backend Development (🧑‍💻Learning)
+[![My Skills](https://skillicons.dev/icons?i=postgres,rails)](https://skillicons.dev)
+### Version Control
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+### IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,clion)](https://skillicons.dev)
+
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhk110/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/STG_Sourabh) [![LeetCode user uuc110](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuuc110&logo=leetcode&logoColor=yellow)](https://leetcode.com/uuc110/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/uuc110)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16559153/uuc110?tab=profile)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uuc110&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sourabh_Kushwah's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuc110&layout=compact&theme=buefy&hide_border=true" /></a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## 
