@@ -1,8 +1,7 @@
 
 # Hi, I'm Sourabh! 👋
 
-I am passionate about tech and have experience in programming languages such as
-I enjoy participating in hackathons and coding challenges to enhance my problem-solving skills. I'm excited to continue growing in this field and connecting with others who share my passion.
+Passionate about tech and experienced in programming languages, participating in hackathons and coding challenges is something I enjoy as it enhances my problem-solving skills. Excited to continue growing in this field, I am eager to connect with others who share my passion.
 
 
 👩‍💻 Currently, I am dedicated to building my portfolio.
