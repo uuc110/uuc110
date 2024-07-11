@@ -21,11 +21,11 @@ Passionate about tech and experienced in programming languages, participating in
 ### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Backend Development (🧑‍💻Learning)
-[![My Skills](https://skillicons.dev/icons?i=postgres,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,rails,mongodb,mysql,nodejs,express)](https://skillicons.dev)
 ### Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 ### IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,clion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,clion,idea,pycharm,webstorm,eclipse)](https://skillicons.dev)
 
 
 
